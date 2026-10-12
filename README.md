@@ -18,3 +18,9 @@
 - `testcases/`：Xmind测试点大纲、20+条测试用例文件、Bug列表。
 - `测试报告.md`：完整的整机测试报告（含质量评估与改进建议）。
 - `测试设计与缺陷管理记录.md`：各工具的详细实操记录与真实截图（HWUI掉帧分析、禅道Bug记录等）。
+- ## 真机专项测试截图（真实操作记录）
+
+**1. 中断测试（应用被来电打断）**
+<img width="1260" height="2800" alt="wechat_interrupt" src="https://github.com/user-attachments/assets/4bdb72fc-9265-49e0-b690-b4d8c8fc56c8" />
+**2. 弱网测试（256kbps限速导致应用黑屏转圈）**
+<img width="1260" height="2800" alt="weak_network" src="https://github.com/user-attachments/assets/c3abc1b1-e90e-459a-8f43-3c609376afc1" />
